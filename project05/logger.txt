@@ -1,0 +1,21 @@
+******************************
+Calling function waste_time
+Arguments:
+- one of type str.
+- 2 of type int.
+- 3 of type str.
+Output:
+Wasting time.
+Execution time: 5.00333 s.
+Return value: ('one', 2, '3') of type tuple.
+******************************
+******************************
+Calling function gcd
+Arguments:
+- 15 of type int.
+- 9 of type int.
+Output:
+The GCD of 15 and 9 is 3
+Execution time: 0.00002 s.
+Return value: 3 of type int.
+******************************
